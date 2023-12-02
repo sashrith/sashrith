@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sashrith
-- 📫 How to reach me sashrith@vmware.com
+- 📫 How to reach me ashrith.ramesh@broadcom.com
 
 <!---
 sashrith/sashrith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
